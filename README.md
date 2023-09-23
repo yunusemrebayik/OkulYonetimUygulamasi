@@ -1,4 +1,19 @@
-# OkulYonetimUygulamasi
+# Okul Yönetim Uygulaması (School Management Application)
+
+## Türkçe
+
+Okul Yönetim Uygulaması, okul yöneticilerinin öğrenci bilgilerini eklemelerini, güncellemelerini, öğrenci listelerini görüntülemelerini ve öğrenci silmelerini sağlayan bir C# konsol uygulamasıdır. Ayrıca, öğrencilere ait adres bilgileri, okudukları kitaplar ve not girişleri gibi ek özellikler içerir.
+
+### Kullanım
+
+Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
+
+1. Uygulamayı bilgisayarınıza indirin veya GitHub'dan kaynak kodunu klonlayın.
+
+2. Proje klasörüne gidin ve `OkulYonetimUygulamasiTemel.csproj` dosyasını kullanarak projeyi açın.
+
+3. Uygulamayı başlatın ve konsol ekranındaki talimatları izleyin.
+
 ### Özellikler
 
 - Öğrenci Ekleme: Okul yöneticileri yeni öğrenci bilgilerini ekleyebilirler.
